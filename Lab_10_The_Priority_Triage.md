@@ -1,6 +1,7 @@
 # Lab 10: The Priority Triage
 
 **Instructor starter repository:** https://github.com/cwillpinto/cs311-lab10-priority-triage
+**Points:** 100. **Due:** Wednesday, November 4, 2026 at 11:59 PM Central.
 ## CS 311: Data Structures & Algorithms (Fall 2026)
 
 ### 🚑 The Mission
